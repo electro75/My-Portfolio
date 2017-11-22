@@ -2,7 +2,7 @@
 .cover-photo {
     background-image: url('../assets/cover.jpg');
     width: 100%;
-    height: 200px;
+    height: 180px;
     background-position: center center;
 /*    border: 2px solid white;*/
 }
@@ -18,10 +18,8 @@
         
 }
 
-.profile {
-    background-color: #f8f9fa;
-/*    border-right: 1px solid black;*/
-/*    padding-bottom: 245px;*/
+i {
+    font-size: xx-large;
 }
 
 .caption {
