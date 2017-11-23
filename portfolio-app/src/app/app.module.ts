@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { ApRoutingModule } from './/ap-routing.module';
 import { AboutComponent } from './about/about.component';
 import { SkillComponent } from './skill/skill.component';
+import { ProjectComponent } from './project/project.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
-    SkillComponent
+    SkillComponent,
+    ProjectComponent
   ],
   imports: [
     BrowserModule,

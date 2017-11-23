@@ -7,17 +7,6 @@
 /*    border: 2px solid white;*/
 }
 
-.profile-photo {
-    width: 300px;
-    height: 300px;
-    z-index: 1;
-    margin-top: -170px;
-    background-position: top left;
-    border-radius: 200px;
-    border: 2px solid white;
-        
-}
-
 i {
     font-size: xx-large;
 }
@@ -37,5 +26,6 @@ i {
 nav {
     z-index: 0;
     padding-bottom: 0px;
+    margin-left: 500px;
 /*    border-bottom: 1px solid black;*/
 }
