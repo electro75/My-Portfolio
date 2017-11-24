@@ -8,13 +8,17 @@ import { AboutComponent } from './about/about.component';
 import { SkillComponent } from './skill/skill.component';
 import { ProjectComponent } from './project/project.component';
 
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { EducationComponent } from './education/education.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
     SkillComponent,
-    ProjectComponent
+    ProjectComponent,
+    EducationComponent
   ],
   imports: [
     BrowserModule,

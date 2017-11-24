@@ -1,4 +1,4 @@
-.container {
+.container-fluid, .links {
 	display: flex;
 }
 
@@ -11,4 +11,18 @@
     border-radius: 200px;
     border: 2px solid white;
         
+}
+
+.caption, .links {
+	text-align: center;
+}
+
+.links {
+	margin-left: 125px;
+	padding: 10px;
+	font-size: xx-large;
+}
+
+.about {
+	padding: 20px;
 }
